@@ -1,0 +1,47 @@
+body{
+  background: pink;
+}
+
+.disarea{
+  background: white;
+  width: 400px;
+  margin: 40px auto 10px;
+  padding: 30px 20px;
+  border-radius: 10px;
+}
+
+.text{
+  
+  font-size:1.5em;
+  color: pink;
+}
+#author{
+  text-align: right;
+}
+#twit,#tumb{
+  width: 10%;
+  height: 36px;
+  line-height: 36px;
+  background-color: pink;
+  border-radius: 3px;
+  text-align: center;
+  Cursor: pointer;
+}
+
+i{
+
+  color: white;
+}
+#newquote{
+  Cursor: pointer;
+  background-color: pink;
+  color: white;
+  outline:none;
+  border:none;
+}
+
+.footer{
+  text-align: center;
+  font-size:0.8em;
+  color: white;
+}
